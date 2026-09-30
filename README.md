@@ -1,16 +1,18 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Monolith Bed Fans for Voron 2.4 [WIP]
+# Monolith Bed Fans for Voron 2.4
  
 ## What's this?
-This is a bed fan shroud for 4x5015 bed fan configurations. Not as clean as I'd like, but I'll continue to work on it when I have the time.
+This is a bed fan shroud for Voron 2.4 builds using four 5015 radial fans.
+
+- [Printable parts (STLs)](STLs/)
+- [CAD model (STEP)](CAD/)
 
 ![1](Images/MBF_top.png)
 
 [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/monolith3d)
 
 ## BOM
-### DISCLAIMER: The BOM and files will change with more testing and feedback.
 
 |No.|Description|Qty|
 |---|---|---|
